@@ -1,0 +1,3 @@
+this is the start of the first homework assignment
+
+java is awesome to learn
